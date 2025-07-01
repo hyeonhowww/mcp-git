@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# 환경설정
+.env
+.env.*
+
+# 기타
+*.bak
+*.tmp
